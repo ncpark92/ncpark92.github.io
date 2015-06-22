@@ -11,4 +11,4 @@ The class continues to be very engaging and there are even some breaks in the le
 Tip of the Week:
 If you are using Google Chrome, there is a cool extension that you can add called WebDeveleoper which among other things, allows you to see the JavaScript that the website uses.
 
-http://chrispederick.com/work/web-developer/
+[http://ncpark92.github.io/SecondWeek/](http://chrispederick.com/work/web-developer/)
